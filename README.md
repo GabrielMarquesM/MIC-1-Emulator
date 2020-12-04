@@ -1,6 +1,6 @@
 # MIC-1 Emulator & IJVM Assembler
 
-This [MIC-1](https://en.wikipedia.org/wiki/MIC-1) Emulator and [IJVM](https://en.wikipedia.org/wiki/IJVM) Assembler was made as project for the Computer Architecture course.
+This [MIC-1](https://en.wikipedia.org/wiki/MIC-1) Emulator and [IJVM](https://en.wikipedia.org/wiki/IJVM) Assembler were both made as project for the Computer Architecture course.
 
 Most of the comments are in Portuguese, and could possibly be translated later.
 
