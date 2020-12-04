@@ -1,0 +1,24 @@
+	bipush 9 
+	istore x
+	bipush 7
+	istore y
+
+loop	bipush 1
+	iload z
+	iadd 
+	istore z 
+	iload z
+	iload y
+	if_icmpeq fim
+	iload resultado
+	iload x
+	iadd
+	istore resultado
+	goto loop
+
+fim	iload resultado
+	iload x 
+	iadd
+  istore resultado
+	iload resultado
+	nop		
