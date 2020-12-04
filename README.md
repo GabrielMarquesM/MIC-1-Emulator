@@ -39,5 +39,6 @@ end  iload result
     - Compile and run main.cpp
     - Keep pressing Enter and you'll see it working.
     
+   ![""](/mic-1.png)
     
   
